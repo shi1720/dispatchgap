@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+qa/
+paper/manuscript.*
+!paper/manuscript.tex
+data/literature-*
+data/pinned.csv
+data/networks-faq.html
+data/founders-online-metadata.json
+data/data-dictionary.pdf

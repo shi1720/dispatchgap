@@ -1,0 +1,33 @@
+{
+  "raw_rows": 40690,
+  "usable_rows": 40659,
+  "exclusions": {
+    "missing_author": 22,
+    "missing_recipient": 9
+  },
+  "group_documents": 2028,
+  "raw_cartesian_contacts": 45070,
+  "self_contacts_removed": 153,
+  "unique_nodes": 5009,
+  "source_sha256": "07efdd2764c1820b652afcac2591429ca1582fbf391ebb6439a8ebceba2e82f0",
+  "source_commit": "dacbbff257a769740c5bf8e25c6fb0a5212bf671",
+  "totals": {
+    "gap_0": 2139654,
+    "gap_1": 2116575,
+    "gap_3": 2072392,
+    "gap_7": 1984485,
+    "gap_14": 1842923,
+    "gap_30": 1552670,
+    "gap_60": 1110050,
+    "static": 3578961
+  },
+  "pooled_retention": {
+    "0": 0.5978422229244744,
+    "1": 0.5913937033681004,
+    "3": 0.5790485003888,
+    "7": 0.5544863439417194,
+    "14": 0.5149324063603934,
+    "30": 0.43383261231402076,
+    "60": 0.3101598480676375
+  }
+}

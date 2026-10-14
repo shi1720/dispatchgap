@@ -1,0 +1,806 @@
+[
+  {
+    "year": 1771,
+    "source": "250648",
+    "target": "128909",
+    "source_name": "Foxcroft, John",
+    "target_name": "Rhoads, Samuel Sr.",
+    "critical_gap": 27,
+    "witness_at_7": [
+      {
+        "document": "BNFN-01-18-02-0005",
+        "date": "1771-01-14",
+        "author": "250648",
+        "author_name": "Foxcroft, John",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-18-02-0022",
+        "date": "1771-02-10",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "128909",
+        "recipient_name": "Rhoads, Samuel Sr."
+      }
+    ],
+    "witness_at_critical": [
+      {
+        "document": "BNFN-01-18-02-0005",
+        "date": "1771-01-14",
+        "author": "250648",
+        "author_name": "Foxcroft, John",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-18-02-0022",
+        "date": "1771-02-10",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "128909",
+        "recipient_name": "Rhoads, Samuel Sr."
+      }
+    ]
+  },
+  {
+    "year": 1772,
+    "source": "246893",
+    "target": "128909",
+    "source_name": "Cavendish, Henry",
+    "target_name": "Rhoads, Samuel Sr.",
+    "critical_gap": 18,
+    "witness_at_7": [
+      {
+        "document": "BNFN-01-19-02-0152",
+        "date": "1772-08-04",
+        "author": "246893",
+        "author_name": "Cavendish, Henry",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-19-02-0181",
+        "date": "1772-08-22",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "128909",
+        "recipient_name": "Rhoads, Samuel Sr."
+      }
+    ],
+    "witness_at_critical": [
+      {
+        "document": "BNFN-01-19-02-0152",
+        "date": "1772-08-04",
+        "author": "246893",
+        "author_name": "Cavendish, Henry",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-19-02-0181",
+        "date": "1772-08-22",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "128909",
+        "recipient_name": "Rhoads, Samuel Sr."
+      }
+    ]
+  },
+  {
+    "year": 1773,
+    "source": "276379",
+    "target": "129713",
+    "source_name": "Walsh, John",
+    "target_name": "Danforth, Samuel (1740-1827)",
+    "critical_gap": 24,
+    "witness_at_7": [
+      {
+        "document": "BNFN-01-20-02-0150",
+        "date": "1773-07-01",
+        "author": "276379",
+        "author_name": "Walsh, John",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-20-02-0177",
+        "date": "1773-07-25",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "129713",
+        "recipient_name": "Danforth, Samuel (1740-1827)"
+      }
+    ],
+    "witness_at_critical": [
+      {
+        "document": "BNFN-01-20-02-0150",
+        "date": "1773-07-01",
+        "author": "276379",
+        "author_name": "Walsh, John",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-20-02-0177",
+        "date": "1773-07-25",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "129713",
+        "recipient_name": "Danforth, Samuel (1740-1827)"
+      }
+    ]
+  },
+  {
+    "year": 1774,
+    "source": "348856",
+    "target": "128909",
+    "source_name": "Gros, Mr.",
+    "target_name": "Rhoads, Samuel Sr.",
+    "critical_gap": 9,
+    "witness_at_7": [
+      {
+        "document": "BNFN-01-21-02-0114",
+        "date": "1774-06-21",
+        "author": "348856",
+        "author_name": "Gros, Mr.",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-21-02-0119",
+        "date": "1774-06-30",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "128909",
+        "recipient_name": "Rhoads, Samuel Sr."
+      }
+    ],
+    "witness_at_critical": [
+      {
+        "document": "BNFN-01-21-02-0114",
+        "date": "1774-06-21",
+        "author": "348856",
+        "author_name": "Gros, Mr.",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-21-02-0119",
+        "date": "1774-06-30",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "128909",
+        "recipient_name": "Rhoads, Samuel Sr."
+      }
+    ]
+  },
+  {
+    "year": 1775,
+    "source": "128628",
+    "target": "240393",
+    "source_name": "Gale, Benjamin",
+    "target_name": "Baylor, George",
+    "critical_gap": 20,
+    "witness_at_7": [
+      {
+        "document": "BNFN-01-22-02-0087",
+        "date": "1775-08-07",
+        "author": "128628",
+        "author_name": "Gale, Benjamin",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-22-02-0112",
+        "date": "1775-08-27",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "50733",
+        "recipient_name": "Cooke, Nicholas, Sr."
+      },
+      {
+        "document": "GEWN-03-01-02-0336",
+        "date": "1775-09-09",
+        "author": "50733",
+        "author_name": "Cooke, Nicholas, Sr.",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "GEWN-03-02-02-0403",
+        "date": "1775-11-28",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "240393",
+        "recipient_name": "Baylor, George"
+      }
+    ],
+    "witness_at_critical": [
+      {
+        "document": "BNFN-01-22-02-0087",
+        "date": "1775-08-07",
+        "author": "128628",
+        "author_name": "Gale, Benjamin",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-22-02-0112",
+        "date": "1775-08-27",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "50733",
+        "recipient_name": "Cooke, Nicholas, Sr."
+      },
+      {
+        "document": "GEWN-03-02-02-0019",
+        "date": "1775-09-19",
+        "author": "50733",
+        "author_name": "Cooke, Nicholas, Sr.",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "GEWN-03-02-02-0403",
+        "date": "1775-11-28",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "240393",
+        "recipient_name": "Baylor, George"
+      }
+    ]
+  },
+  {
+    "year": 1776,
+    "source": "241827",
+    "target": "138357",
+    "source_name": "Breck, Robert",
+    "target_name": "Delap, Jean-Hans",
+    "critical_gap": 23,
+    "witness_at_7": [
+      {
+        "document": "GEWN-03-04-02-0282",
+        "date": "1776-05-20",
+        "author": "241827",
+        "author_name": "Breck, Robert",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "GEWN-03-05-02-0011",
+        "date": "1776-06-17",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-22-02-0299",
+        "date": "1776-07-10",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "138357",
+        "recipient_name": "Delap, Jean-Hans"
+      }
+    ],
+    "witness_at_critical": [
+      {
+        "document": "GEWN-03-04-02-0282",
+        "date": "1776-05-20",
+        "author": "241827",
+        "author_name": "Breck, Robert",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "GEWN-03-05-02-0011",
+        "date": "1776-06-17",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-22-02-0299",
+        "date": "1776-07-10",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "138357",
+        "recipient_name": "Delap, Jean-Hans"
+      }
+    ]
+  },
+  {
+    "year": 1777,
+    "source": "131779",
+    "target": "128916",
+    "source_name": "Harrison, Charles",
+    "target_name": "Shippen, William, Sr.",
+    "critical_gap": 26,
+    "witness_at_7": [
+      {
+        "document": "GEWN-03-09-02-0201",
+        "date": "1777-04-20",
+        "author": "131779",
+        "author_name": "Harrison, Charles",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "GEWN-03-09-02-0441",
+        "date": "1777-05-16",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "57634",
+        "recipient_name": "Rush, Benjamin"
+      },
+      {
+        "document": "RUSH-01-01-02-0002-0042",
+        "date": "1777-12-02",
+        "author": "57634",
+        "author_name": "Rush, Benjamin",
+        "recipient": "128916",
+        "recipient_name": "Shippen, William, Sr."
+      }
+    ],
+    "witness_at_critical": [
+      {
+        "document": "GEWN-03-09-02-0201",
+        "date": "1777-04-20",
+        "author": "131779",
+        "author_name": "Harrison, Charles",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "GEWN-03-09-02-0441",
+        "date": "1777-05-16",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "57634",
+        "recipient_name": "Rush, Benjamin"
+      },
+      {
+        "document": "RUSH-01-01-02-0002-0042",
+        "date": "1777-12-02",
+        "author": "57634",
+        "author_name": "Rush, Benjamin",
+        "recipient": "128916",
+        "recipient_name": "Shippen, William, Sr."
+      }
+    ]
+  },
+  {
+    "year": 1778,
+    "source": "102606",
+    "target": "128617",
+    "source_name": "McCall, George",
+    "target_name": "Greenleaf, Thomas",
+    "critical_gap": 13,
+    "witness_at_7": [
+      {
+        "document": "BNFN-01-27-02-0129",
+        "date": "1778-07-22",
+        "author": "102606",
+        "author_name": "McCall, George",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-27-02-0155",
+        "date": "1778-07-29",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "57264",
+        "recipient_name": "Read, Thomas"
+      },
+      {
+        "document": "ADMS-06-06-02-0303",
+        "date": "1778-08-25",
+        "author": "57264",
+        "author_name": "Read, Thomas",
+        "recipient": "48298",
+        "recipient_name": "Adams, John"
+      },
+      {
+        "document": "ADMS-06-07-02-0010",
+        "date": "1778-09-08",
+        "author": "48298",
+        "author_name": "Adams, John",
+        "recipient": "128617",
+        "recipient_name": "Greenleaf, Thomas"
+      }
+    ],
+    "witness_at_critical": [
+      {
+        "document": "BNFN-01-27-02-0129",
+        "date": "1778-07-22",
+        "author": "102606",
+        "author_name": "McCall, George",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-27-02-0282",
+        "date": "1778-08-26",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "48298",
+        "recipient_name": "Adams, John"
+      },
+      {
+        "document": "ADMS-06-07-02-0010",
+        "date": "1778-09-08",
+        "author": "48298",
+        "author_name": "Adams, John",
+        "recipient": "128617",
+        "recipient_name": "Greenleaf, Thomas"
+      }
+    ]
+  },
+  {
+    "year": 1779,
+    "source": "142060",
+    "target": "106493",
+    "source_name": "Livingston, Muscoe",
+    "target_name": "Welles, John",
+    "critical_gap": 24,
+    "witness_at_7": [
+      {
+        "document": "ADMS-06-08-02-0073",
+        "date": "1779-06-17",
+        "author": "142060",
+        "author_name": "Livingston, Muscoe",
+        "recipient": "48298",
+        "recipient_name": "Adams, John"
+      },
+      {
+        "document": "ADMS-06-08-02-0080",
+        "date": "1779-08-04",
+        "author": "48298",
+        "author_name": "Adams, John",
+        "recipient": "53956",
+        "recipient_name": "Jay, John"
+      },
+      {
+        "document": "GEWN-03-22-02-0148",
+        "date": "1779-08-18",
+        "author": "53956",
+        "author_name": "Jay, John",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "GEWN-03-22-02-0400",
+        "date": "1779-09-22",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "106493",
+        "recipient_name": "Welles, John"
+      }
+    ],
+    "witness_at_critical": [
+      {
+        "document": "ADMS-06-08-02-0073",
+        "date": "1779-06-17",
+        "author": "142060",
+        "author_name": "Livingston, Muscoe",
+        "recipient": "48298",
+        "recipient_name": "Adams, John"
+      },
+      {
+        "document": "ADMS-06-08-02-0080",
+        "date": "1779-08-04",
+        "author": "48298",
+        "author_name": "Adams, John",
+        "recipient": "53956",
+        "recipient_name": "Jay, John"
+      },
+      {
+        "document": "GEWN-03-22-02-0230",
+        "date": "1779-08-29",
+        "author": "53956",
+        "author_name": "Jay, John",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "GEWN-03-22-02-0400",
+        "date": "1779-09-22",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "106493",
+        "recipient_name": "Welles, John"
+      }
+    ]
+  },
+  {
+    "year": 1780,
+    "source": "242932",
+    "target": "128916",
+    "source_name": "Bellamy, Joseph",
+    "target_name": "Shippen, William, Sr.",
+    "critical_gap": 26,
+    "witness_at_7": [
+      {
+        "document": "GEWN-03-25-02-0221",
+        "date": "1780-04-07",
+        "author": "242932",
+        "author_name": "Bellamy, Joseph",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "GEWN-03-25-02-0283",
+        "date": "1780-04-15",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "60053",
+        "recipient_name": "Williams, Jonathan Jr."
+      },
+      {
+        "document": "ADMS-06-09-02-0214",
+        "date": "1780-05-23",
+        "author": "60053",
+        "author_name": "Williams, Jonathan Jr.",
+        "recipient": "48298",
+        "recipient_name": "Adams, John"
+      },
+      {
+        "document": "ADMS-06-09-02-0292",
+        "date": "1780-07-01",
+        "author": "48298",
+        "author_name": "Adams, John",
+        "recipient": "57634",
+        "recipient_name": "Rush, Benjamin"
+      },
+      {
+        "document": "RUSH-01-01-02-0002-0085",
+        "date": "1780-11-18",
+        "author": "57634",
+        "author_name": "Rush, Benjamin",
+        "recipient": "128916",
+        "recipient_name": "Shippen, William, Sr."
+      }
+    ],
+    "witness_at_critical": [
+      {
+        "document": "GEWN-03-25-02-0221",
+        "date": "1780-04-07",
+        "author": "242932",
+        "author_name": "Bellamy, Joseph",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "GEWN-03-25-02-0383",
+        "date": "1780-05-03",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "52623",
+        "recipient_name": "Gordon, William"
+      },
+      {
+        "document": "ADMS-06-10-02-0014",
+        "date": "1780-07-22",
+        "author": "52623",
+        "author_name": "Gordon, William",
+        "recipient": "48298",
+        "recipient_name": "Adams, John"
+      },
+      {
+        "document": "ADMS-06-10-02-0091",
+        "date": "1780-09-20",
+        "author": "48298",
+        "author_name": "Adams, John",
+        "recipient": "57634",
+        "recipient_name": "Rush, Benjamin"
+      },
+      {
+        "document": "RUSH-01-01-02-0002-0085",
+        "date": "1780-11-18",
+        "author": "57634",
+        "author_name": "Rush, Benjamin",
+        "recipient": "128916",
+        "recipient_name": "Shippen, William, Sr."
+      }
+    ]
+  },
+  {
+    "year": 1781,
+    "source": "128909",
+    "target": "240080",
+    "source_name": "Rhoads, Samuel Sr.",
+    "target_name": "Arbuthnot, Marriot",
+    "critical_gap": 8,
+    "witness_at_7": [
+      {
+        "document": "BNFN-01-35-02-0203",
+        "date": "1781-07-14",
+        "author": "128909",
+        "author_name": "Rhoads, Samuel Sr.",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-35-02-0235",
+        "date": "1781-07-26",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "55950",
+        "recipient_name": "Morris, Robert"
+      },
+      {
+        "document": "FOEA-01-02-02-0673",
+        "date": "1781-08-13",
+        "author": "55950",
+        "author_name": "Morris, Robert",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "FOEA-01-02-02-142",
+        "date": "1781-08-21",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "240080",
+        "recipient_name": "Arbuthnot, Marriot"
+      }
+    ],
+    "witness_at_critical": [
+      {
+        "document": "BNFN-01-35-02-0203",
+        "date": "1781-07-14",
+        "author": "128909",
+        "author_name": "Rhoads, Samuel Sr.",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-35-02-0235",
+        "date": "1781-07-26",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "55950",
+        "recipient_name": "Morris, Robert"
+      },
+      {
+        "document": "FOEA-01-02-02-0673",
+        "date": "1781-08-13",
+        "author": "55950",
+        "author_name": "Morris, Robert",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "FOEA-01-02-02-142",
+        "date": "1781-08-21",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "240080",
+        "recipient_name": "Arbuthnot, Marriot"
+      }
+    ]
+  },
+  {
+    "year": 1782,
+    "source": "129039",
+    "target": "128883",
+    "source_name": "Hutton, James",
+    "target_name": "Carr, Samuel",
+    "critical_gap": 17,
+    "witness_at_7": [
+      {
+        "document": "BNFN-01-37-02-0432",
+        "date": "1782-07-23",
+        "author": "129039",
+        "author_name": "Hutton, James",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-37-02-0481",
+        "date": "1782-08-12",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "55950",
+        "recipient_name": "Morris, Robert"
+      },
+      {
+        "document": "FOEA-01-02-02-3191",
+        "date": "1782-08-20",
+        "author": "55950",
+        "author_name": "Morris, Robert",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "FOEA-01-02-02-3486",
+        "date": "1782-09-16",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "128883",
+        "recipient_name": "Carr, Samuel"
+      }
+    ],
+    "witness_at_critical": [
+      {
+        "document": "BNFN-01-37-02-0432",
+        "date": "1782-07-23",
+        "author": "129039",
+        "author_name": "Hutton, James",
+        "recipient": "52222",
+        "recipient_name": "Franklin, Benjamin"
+      },
+      {
+        "document": "BNFN-01-37-02-0481",
+        "date": "1782-08-12",
+        "author": "52222",
+        "author_name": "Franklin, Benjamin",
+        "recipient": "55950",
+        "recipient_name": "Morris, Robert"
+      },
+      {
+        "document": "FOEA-01-02-02-3313",
+        "date": "1782-08-29",
+        "author": "55950",
+        "author_name": "Morris, Robert",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "FOEA-01-02-02-3486",
+        "date": "1782-09-16",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "128883",
+        "recipient_name": "Carr, Samuel"
+      }
+    ]
+  },
+  {
+    "year": 1783,
+    "source": "246166",
+    "target": "128991",
+    "source_name": "Colles, Christopher",
+    "target_name": "Smith, William Peartree",
+    "critical_gap": 11,
+    "witness_at_7": [
+      {
+        "document": "FOEA-01-02-02-4437",
+        "date": "1783-01-17",
+        "author": "246166",
+        "author_name": "Colles, Christopher",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "FOEA-01-02-02-4518",
+        "date": "1783-01-28",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "128991",
+        "recipient_name": "Smith, William Peartree"
+      }
+    ],
+    "witness_at_critical": [
+      {
+        "document": "FOEA-01-02-02-4437",
+        "date": "1783-01-17",
+        "author": "246166",
+        "author_name": "Colles, Christopher",
+        "recipient": "59627",
+        "recipient_name": "Washington, George"
+      },
+      {
+        "document": "FOEA-01-02-02-4518",
+        "date": "1783-01-28",
+        "author": "59627",
+        "author_name": "Washington, George",
+        "recipient": "128991",
+        "recipient_name": "Smith, William Peartree"
+      }
+    ]
+  }
+]

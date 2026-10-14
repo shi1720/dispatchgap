@@ -1,0 +1,65 @@
+[
+  {
+    "year": 1771,
+    "source": "52222",
+    "gap": 0,
+    "reachable_including_self": 34,
+    "agreement": true
+  },
+  {
+    "year": 1771,
+    "source": "52222",
+    "gap": 7,
+    "reachable_including_self": 34,
+    "agreement": true
+  },
+  {
+    "year": 1771,
+    "source": "52222",
+    "gap": 30,
+    "reachable_including_self": 34,
+    "agreement": true
+  },
+  {
+    "year": 1776,
+    "source": "59627",
+    "gap": 0,
+    "reachable_including_self": 281,
+    "agreement": true
+  },
+  {
+    "year": 1776,
+    "source": "59627",
+    "gap": 7,
+    "reachable_including_self": 280,
+    "agreement": true
+  },
+  {
+    "year": 1776,
+    "source": "59627",
+    "gap": 30,
+    "reachable_including_self": 277,
+    "agreement": true
+  },
+  {
+    "year": 1781,
+    "source": "59627",
+    "gap": 0,
+    "reachable_including_self": 621,
+    "agreement": true
+  },
+  {
+    "year": 1781,
+    "source": "59627",
+    "gap": 7,
+    "reachable_including_self": 611,
+    "agreement": true
+  },
+  {
+    "year": 1781,
+    "source": "59627",
+    "gap": 30,
+    "reachable_including_self": 586,
+    "agreement": true
+  }
+]

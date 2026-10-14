@@ -5,7 +5,9 @@ An exact, source-linked audit of document-date routes in Revolutionary Networks,
 
 The research manuscript is *From Dated Ties to Defensible Routes: A Handoff-Feasibility
 Audit of Revolutionary Correspondence, 1771–1783*. This repository provides the
-completed computational study. Conference acceptance is not claimed.
+completed computational study. Submitted on 14 October 2026 to DH2027 as Long
+Paper 124, with Technical Track matching requested; awaiting review. Conference
+acceptance is not claimed.
 
 ## What the software establishes
 
@@ -103,6 +105,8 @@ novelty search. A literature search cannot prove the universal absence of prior 
 
 ## Licensing and disclosure
 
-Software: MIT, copyright Shivam Gupta, 2026. Data retain their separate original
+Software: MIT, copyright Shivam Gupta, 2026. The manuscript is licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), copyright Shivam Gupta,
+2026, as authorized for the DH2027 submission. Data retain their separate original
 license. Generative AI assisted literature discovery, software development,
 analysis, visualization, and drafting.
